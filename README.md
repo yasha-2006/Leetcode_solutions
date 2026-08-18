@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/yasha-2006/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/yasha-2006/Leetcode_solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/yasha-2006/Leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
+| [2413-smallest-even-multiple](https://github.com/yasha-2006/Leetcode_solutions/tree/master/2413-smallest-even-multiple) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/yasha-2006/Leetcode_solutions/tree/master/1025-divisor-game) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/yasha-2006/Leetcode_solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
