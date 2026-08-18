@@ -14,4 +14,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/yasha-2006/Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
+## Math
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/yasha-2006/Leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/yasha-2006/Leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/yasha-2006/Leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
