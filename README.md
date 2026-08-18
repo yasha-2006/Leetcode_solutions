@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/yasha-2006/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0509-fibonacci-number](https://github.com/yasha-2006/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/yasha-2006/Leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
